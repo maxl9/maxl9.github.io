@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>Welcome</h1>
-    <?="<h2>test page</h2>"?>
     <p>Lorem text</p>
 </body>
 </html>
